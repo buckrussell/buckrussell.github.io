@@ -1,2 +1,3 @@
 name: Buck Russell
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
