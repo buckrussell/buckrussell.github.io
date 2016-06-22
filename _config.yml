@@ -1,5 +1,5 @@
 name: Buck Russell
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-highlighter: pygments
+highlighter: rouge
 encoding: utf-8
