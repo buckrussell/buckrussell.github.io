@@ -258,15 +258,18 @@ header .header-content .header-content-inner p {
     margin-bottom: 0;
 }
 
-.portfolio-box {
-    display: block;
-    position: relative;
+.portfolio {
     background-image: url(../img/puppis-a-remnant-1920.png);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.portfolio-box {
+    display: block;
+    position: relative;
     margin: 0 auto;
     margin-bottom: 100px;
     max-width: 650px;
