@@ -261,10 +261,7 @@ header .header-content .header-content-inner p {
 #portfolio {
     background-image: url(../img/puppis-a-remnant-1920.jpg);
     background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+   background-repeat: repeat-y;
 }
 
 .portfolio-box {
@@ -273,7 +270,6 @@ header .header-content .header-content-inner p {
     margin: 0 auto;
     margin-bottom: 100px;
     max-width: 650px;
-     background-image: url(buckrussell.github.io/img/puppis-a-remnant-1920.jpg);
 }
 
 .portfolio-box .portfolio-box-caption {
