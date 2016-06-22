@@ -258,7 +258,7 @@ header .header-content .header-content-inner p {
     margin-bottom: 0;
 }
 
-.portfolio {
+#portfolio {
     background-image: url(../img/puppis-a-remnant-1920.jpg);
     background-position: center;
     -webkit-background-size: cover;
