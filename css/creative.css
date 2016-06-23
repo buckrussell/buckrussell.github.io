@@ -259,8 +259,8 @@ header .header-content .header-content-inner p {
 }
 
 #portfolio {
-   background-image: url(../img/puppis-a-remnant-1920.jpg);
-   background-position: center;
+   background-image: url(../img/Black Background.png);
+   /*background-position: center;*/
    background-repeat: repeat-y;
 }
 
