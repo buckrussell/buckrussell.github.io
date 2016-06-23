@@ -261,11 +261,12 @@ header .header-content .header-content-inner p {
 #portfolio {
    background-image: url(../img/Golden Waters.png);
    background-position: center;
+   background-repeat: repeat-y;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-   background-repeat: repeat-y;
+   
 }
 
 .portfolio-box {
