@@ -261,7 +261,7 @@ header .header-content .header-content-inner p {
 #portfolio {
    background-image: url(../img/bluelavatexture.jpg);
    background-position: center;
-   background-repeat: repeat-y;
+   background-repeat: repeat;
 }
 
 .portfolio-box {
