@@ -267,6 +267,7 @@ header .header-content .header-content-inner p {
 .portfolio-box {
     display: block;
     justify-content: center;
+    align-items:stretch;
     position: relative;
     margin: 0 auto;
     Margin-top : 50px;
