@@ -20,6 +20,12 @@ hr {
     border-width: 3px;
 }
 
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: white;
+}
+
 hr.light {
     border-color: #fff;
 }
