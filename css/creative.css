@@ -24,6 +24,8 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 hr.light {
@@ -37,7 +39,7 @@ a {
     transition: all .35s;
 }
 
-a:hover , a:active{
+b:hover , b:active{
    box-shadow: 20px 20px white;
 }
 
