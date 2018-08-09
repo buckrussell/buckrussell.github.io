@@ -14,18 +14,18 @@ body {
     font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
 }
 
+h1 {
+    font-size: 3em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
 hr {
     max-width: 50px;
     border-color: #c90000;
     border-width: 3px;
-}
-
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: white;
-    padding-top: 20px;
-    padding-bottom: 10px;
 }
 
 hr.light {
@@ -47,13 +47,17 @@ a:focus {
     color: #c91010;
 }
 
+e{
+    color: green;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Museo Sans','Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
 p {
@@ -468,6 +472,34 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 15px 30px;
+}
+
+.simple-subscription-form {
+  background-color: #c90000;
+  color: white;
+  padding: 2rem;
+  border-radius: 0;
+  text-align: center;
+}
+
+.simple-subscription-form .button {
+  margin-bottom: 0;
+  border-radius: 12px;
+  text-align: center;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  border: none;
+  background-color: #555555;
+}
+
+.button:hover {
+    background-color: #d0a334; 
+    color: white;
+}
+
+input[type=email] {
+    background-color: white;
+    color: darkslategray;
 }
 
 ::-moz-selection {
