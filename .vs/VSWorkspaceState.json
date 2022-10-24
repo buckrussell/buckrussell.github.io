@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\C:\\Users\\nick.stamas\\Source\\Repos\\buckrussell\\buckrussell.github.io",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
